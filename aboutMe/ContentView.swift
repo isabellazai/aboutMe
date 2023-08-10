@@ -37,7 +37,7 @@ struct ContentView: View {
                 
                     
                 if showBio {
-                    Text("I'm a freshman that loves playing table tennis, I love boba with all my heart, I have an older sister, and love animals!!")
+                    Text("I'm a freshman that loves playing table tennis, I love boba with all my heart, I have an older sister, and love animals!!🐶")
                 }
                
                 
